@@ -1,0 +1,37 @@
+# NDK
+obj/
+
+# IntelliJ IDEA / Android Studio
+.idea/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+gradle_error.txt
+
+# Keystore files
+*.jks
+*.keystore
+
+# Mac
+.DS_Store
+
+# Kotlin
+.kotlin/
+
+# JDK
+jdk21/
+jdk21.zip
+gradle-8.10.1-bin.zip
+gradle-8.7-bin.zip
